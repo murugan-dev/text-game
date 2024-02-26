@@ -42,4 +42,11 @@ body{
 }
 
   
-
+@media screen and (max-width: 480px){
+    .btn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 90px;
+    }
+}
